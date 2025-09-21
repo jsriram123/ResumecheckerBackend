@@ -1,0 +1,19 @@
+echo Software Developer Position > data\jds\sample_jd.txt
+echo. >> data\jds\sample_jd.txt
+echo Required Skills: >> data\jds\sample_jd.txt
+echo - Python programming >> data\jds\sample_jd.txt
+echo - JavaScript >> data\jds\sample_jd.txt
+echo - SQL databases >> data\jds\sample_jd.txt
+echo - REST APIs >> data\jds\sample_jd.txt
+echo - Git version control >> data\jds\sample_jd.txt
+echo. >> data\jds\sample_jd.txt
+echo Education: >> data\jds\sample_jd.txt
+echo - Bachelor's degree in Computer Science or related field >> data\jds\sample_jd.txt
+echo. >> data\jds\sample_jd.txt
+echo Experience: >> data\jds\sample_jd.txt
+echo - 2+ years of software development experience >> data\jds\sample_jd.txt
+echo. >> data\jds\sample_jd.txt
+echo Preferred Skills: >> data\jds\sample_jd.txt
+echo - React >> data\jds\sample_jd.txt
+echo - AWS >> data\jds\sample_jd.txt
+echo - Docker >> data\jds\sample_jd.txt

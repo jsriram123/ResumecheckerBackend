@@ -1,0 +1,20 @@
+echo John Doe > data\resumes\sample_resume.txt
+echo Email: john.doe@email.com >> data\resumes\sample_resume.txt
+echo. >> data\resumes\sample_resume.txt
+echo Education: >> data\resumes\sample_resume.txt
+echo Bachelor of Science in Computer Science, University of Example, 2022 >> data\resumes\sample_resume.txt
+echo. >> data\resumes\sample_resume.txt
+echo Skills: >> data\resumes\sample_resume.txt
+echo - Python programming >> data\resumes\sample_resume.txt
+echo - JavaScript >> data\resumes\sample_resume.txt
+echo - HTML/CSS >> data\resumes\sample_resume.txt
+echo - Git >> data\resumes\sample_resume.txt
+echo. >> data\resumes\sample_resume.txt
+echo Projects: >> data\resumes\sample_resume.txt
+echo - Built a web application using Python and JavaScript >> data\resumes\sample_resume.txt
+echo - Created a database management system >> data\resumes\sample_resume.txt
+echo. >> data\resumes\sample_resume.txt
+echo Experience: >> data\resumes\sample_resume.txt
+echo Software Developer Intern, ABC Company, Summer 2021 >> data\resumes\sample_resume.txt
+echo - Developed web applications >> data\resumes\sample_resume.txt
+echo - Collaborated with team using Git >> data\resumes\sample_resume.txt
