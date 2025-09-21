@@ -1,7 +1,9 @@
+## WARNING: PyMuPDF (pymupdf) does NOT support Python 3.13 as of September 2025.
+## Please use Python 3.12 or 3.11 for compatibility.
+python_version == "3.12.*"
 streamlit==1.28.1
 fastapi==0.104.1
 uvicorn==0.24.0
-pymupdf==1.23.7
+pymupdf==1.23.8
 pdfplumber==0.10.3
 python-docx==1.1.0
-
